@@ -1,6 +1,6 @@
-# opsworks_cookbook
+# AWS Solidus Demo Opsworks cookbook
 
-This is a very basic Chef 13 cookbook that can be used to deploy Rails apps to AWS via OpsWorks.
+This is a very basic Chef 13 cookbook that can be used to deploy Rails apps to AWS via OpsWorks. This cookbook accompanies this [blog post](https://nebulab.it/blog/solidus-deployment-amazon-aws-opsworks/) on Nebulab's technical blog. See the blog post for more details.
 
 These are the steps used to generate this cookbook:
 
